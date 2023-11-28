@@ -1,0 +1,22 @@
+main{
+    
+    background-color: #3d3d3d;
+    color: white;
+}
+
+.star{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 5px;
+}
+
+.part{
+    background-color:gray;
+    height: 75px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

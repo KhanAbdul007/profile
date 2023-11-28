@@ -1,0 +1,36 @@
+nav{
+    height: auto;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 18px;
+    flex-wrap: wrap;
+}
+.options{
+    width: 50%;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.icon{
+    display: flex;
+    width: 80px;
+    justify-content: space-around;
+}
+.icon i{
+    justify-content: space-around;
+}
+
+.ak{
+    
+    -webkit-text-fill-color: transparent;
+    background:linear-gradient(blue, green, yellow, purple);
+    -webkit-background-clip: text;
+    font-size: 80px;
+}
+

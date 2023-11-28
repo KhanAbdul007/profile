@@ -1,0 +1,13 @@
+.paragraph{
+    
+}
+
+.paragraph button{
+    background-color: gray;
+    border: 2px solid whitesmoke;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px #000;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
